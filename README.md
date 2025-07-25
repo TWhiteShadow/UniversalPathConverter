@@ -16,7 +16,6 @@ Ce projet vous permet de convertir des chemins de fichiers macOS ou windows dans
 
 # 🎬 Demo
 
-![demo](https://github.com/user-attachments/assets/69a80022-3cfa-4dda-9935-e34cd2f6c318)
 ![demo](https://github.com/TWhiteShadow/UniversalPathConverter/blob/main/demo.gif?raw=true)
 
 
